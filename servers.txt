@@ -1,0 +1,6 @@
+jose.garcia,10.2.3.34,Qwerty1234*
+usuario1,192.168.1.10,contraseña1
+usuario2,192.168.1.11,contraseña2
+usuario3,192.168.1.12,contraseña3
+
+Ej De Uso: pepito.peres,10.2.3.34,Qwerty1234*
